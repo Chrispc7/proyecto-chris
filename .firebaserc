@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "chris-store-b50a1": {
+      "hosting": {
+        "proyecto-chris": [
+          "chris-store-b50a1"
+        ]
+      }
+    }
+  }
+}
